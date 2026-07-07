@@ -1,2 +1,2 @@
 # Goals-Based-Wealth-Retirement-Planning-Simulator
-Tax-aware retirement planning simulator with Monte Carlo projections, optimal withdrawal sequencing, and Social Security claiming analysis.
+A client-facing financial planning tool that simulates retirement outcomes via Monte Carlo analysis, optimizes withdrawal order across taxable, traditional, and Roth accounts, and compares Social Security claiming ages — built to mirror the planning tools used by wealth advisors.
